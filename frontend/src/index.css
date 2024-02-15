@@ -1,0 +1,13 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Knewave&family=Lato:ital,wght@0,400;1,300&family=Montserrat:ital,wght@0,200;0,300;1,200&family=Noto+Sans:wght@400;500&family=Permanent+Marker&family=Poppins:ital,wght@0,300;0,500;1,300&family=Roboto:wght@300;400&family=Tilt+Prism&display=swap');
+
+
+  .mens-container{
+    display: flex;
+  gap:130px;
+  flex-wrap:wrap;
+  margin-top: 25px;
+  margin-left: 70px;
+
+  }
+

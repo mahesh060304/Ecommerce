@@ -1,0 +1,29 @@
+#box:hover{
+    box-shadow:0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    
+}
+.card-body{
+    min-height: 300px;
+    min-width: 300px;
+    margin-right: 5px;
+    /* padding:auto; */
+}
+.icons{
+    color: grey;
+}
+.icons:hover{
+    background-color: #cc3333;
+    color: white;
+}
+.shop{
+    padding: 1%;
+    background-color:transparent;
+    border: 1px solid grey;
+    color: white;
+    font-weight: bold;
+}
+.shop:hover{
+    background-color: #cc3333;
+    color:white;
+    border:1px solid #cc3333;
+}
